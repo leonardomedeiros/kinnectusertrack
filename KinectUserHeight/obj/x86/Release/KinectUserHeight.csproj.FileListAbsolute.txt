@@ -1,0 +1,53 @@
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Release\MainWindow.baml
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Release\MainWindow.g.cs
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Release\App.g.cs
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight_MarkupCompile.cache
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.g.resources
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.Properties.Resources.resources
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.csproj.GenerateResource.Cache
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\bin\Release\KinectUserHeight.exe
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\bin\Release\KinectUserHeight.pdb
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.csprojFakesResolveAssemblyReference.cache
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.exe
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.pdb
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.exe
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.pdb
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\bin\Release\KinectUserHeight.exe
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\bin\Release\KinectUserHeight.pdb
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.csprojFakesResolveAssemblyReference.cache
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\MainWindow.baml
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\MainWindow.g.cs
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\App.g.cs
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight_MarkupCompile.cache
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.g.resources
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.Properties.Resources.resources
+C:\Users\leonardo\Dropbox\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.csproj.GenerateResource.Cache
+C:\Users\leona\OneDrive\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.exe
+C:\Users\leona\OneDrive\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.pdb
+C:\Users\leona\OneDrive\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.csprojResolveAssemblyReference.cache
+C:\Users\leona\OneDrive\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\MainWindow.baml
+C:\Users\leona\OneDrive\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\MainWindow.g.cs
+C:\Users\leona\OneDrive\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\App.g.cs
+C:\Users\leona\OneDrive\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight_MarkupCompile.cache
+C:\Users\leona\OneDrive\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.g.resources
+C:\Users\leona\OneDrive\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.Properties.Resources.resources
+C:\Users\leona\OneDrive\doutorado ufcg\KinnectUserHeight\KinectUserHeight\obj\x86\Release\KinectUserHeight.csproj.GenerateResource.Cache
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\obj\x86\Release\KinectUserHeight.exe
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\obj\x86\Release\KinectUserHeight.pdb
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\obj\x86\Release\KinectUserHeight.csprojResolveAssemblyReference.cache
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\obj\x86\Release\MainWindow.baml
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\obj\x86\Release\MainWindow.g.cs
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\obj\x86\Release\App.g.cs
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\obj\x86\Release\KinectUserHeight_MarkupCompile.cache
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\obj\x86\Release\KinectUserHeight.g.resources
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\obj\x86\Release\KinectUserHeight.Properties.Resources.resources
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\obj\x86\Release\KinectUserHeight.csproj.GenerateResource.Cache
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\bin\Release\KinectUserHeight.exe
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\bin\Release\KinectUserHeight.pdb
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\bin\Release\Microsoft.Kinect.dll
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\bin\Release\Microsoft.Kinect.xml
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\bin\Release\KinectUserHeight.exe.config
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\bin\Release\XnaGeometry.dll
+C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\bin\Release\XnaGeometry.pdb

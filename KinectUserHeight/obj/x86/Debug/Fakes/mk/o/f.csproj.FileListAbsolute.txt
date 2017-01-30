@@ -1,0 +1,7 @@
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Debug\Fakes\mk\b\Microsoft.Kinect.Fakes.xml
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Debug\Fakes\mk\b\Microsoft.Kinect.Fakes.dll
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Debug\Fakes\mk\b\Microsoft.Kinect.Fakes.pdb
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Debug\Fakes\mk\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Debug\Fakes\mk\o\f.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Debug\Fakes\mk\o\Microsoft.Kinect.Fakes.dll
+C:\Users\leonardo\Dropbox\doutorado ufcg\Softwares\KinnectUserHeight\KinectUserHeight\obj\x86\Debug\Fakes\mk\o\Microsoft.Kinect.Fakes.pdb
