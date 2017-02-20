@@ -51,3 +51,7 @@ C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectU
 C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\bin\Release\KinectUserHeight.exe.config
 C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\bin\Release\XnaGeometry.dll
 C:\Users\leona\OneDrive\ifal\orientacao\thayse\codigo\KinnectDORTMonitor\KinectUserHeight\bin\Release\XnaGeometry.pdb
+C:\git\kinnectusertrack\KinectUserHeight\bin\Release\KinectUserHeight.exe.config
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\KinectUserHeight.exe
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\KinectUserHeight.pdb
+C:\git\kinnectusertrack\KinectUserHeight\bin\Release\KinectUserDORT.exe.config

@@ -6,7 +6,7 @@ using System.Numerics;
 using XnaGeometry;
 
 
-namespace KinectUserHeight
+namespace KinectUserDort
 {
     /// <summary>
     /// Provides some common functionality on skeletal data.
@@ -140,21 +140,44 @@ namespace KinectUserHeight
             return ThetaInDegrees;            
         }
 
-        public static double NeckRelativeAngle(this Skeleton skeleton)
+        public static double ShoulderFlexion(this Skeleton skeleton)
         {
-            var shoulderRight = skeleton.Joints[JointType.ShoulderRight];
-            var head = skeleton.Joints[JointType.Head];
-            var elbowRight = skeleton.Joints[JointType.ElbowRight];
+            var rightElbow = skeleton.Joints[JointType.ElbowRight];
+            var rightShoulder = skeleton.Joints[JointType.ShoulderRight];
+            var rightHip = skeleton.Joints[JointType.HipRight];
+            
+
             //Vector3 v = new Vector3(3,3,3);
-            Vector3 u = new Vector3(head.Position.X - shoulderRight.Position.X, head.Position.Y - shoulderRight.Position.Y,
-                head.Position.Z - shoulderRight.Position.Z);
-            Vector3 v = new Vector3(elbowRight.Position.X - shoulderRight.Position.X, elbowRight.Position.Y - shoulderRight.Position.Y,
-                elbowRight.Position.Z - shoulderRight.Position.Z);
+            Vector3 u = new Vector3(rightElbow.Position.X - rightShoulder.Position.X, rightElbow.Position.Y - rightShoulder.Position.Y,
+                rightElbow.Position.Z - rightShoulder.Position.Z);
+            Vector3 v = new Vector3(rightHip.Position.X - rightShoulder.Position.X, rightHip.Position.Y - rightShoulder.Position.Y,
+                rightHip.Position.Z - rightShoulder.Position.Z);
 
             Double cosTheta = Vector3.Dot(Vector3.Normalize(u), Vector3.Normalize(v));
 
             Double ThetaInDegrees = Math.Acos(cosTheta) * 180 / Math.PI;
 
+            return ThetaInDegrees;
+        }
+
+        //Baseado no artigo:http://www.efdeportes.com/efd182/condicoes-de-trabalho-de-um-setor-de-secretaria.htm
+        //Figura: Avaliação postural por meio do Software de Avaliação Postura
+        public static double HipRelativeAngle(this Skeleton skeleton)
+        {
+            var shoulder = skeleton.Joints[JointType.ShoulderRight];
+            var hipRight = skeleton.Joints[JointType.HipRight];
+            var kneeRight = skeleton.Joints[JointType.KneeRight];
+
+
+            //Vector3 v = new Vector3(3,3,3);
+            Vector3 u = new Vector3(shoulder.Position.X - hipRight.Position.X, shoulder.Position.Y - hipRight.Position.Y,
+                shoulder.Position.Z - hipRight.Position.Z);
+            Vector3 v = new Vector3(kneeRight.Position.X - hipRight.Position.X, kneeRight.Position.Y - hipRight.Position.Y,
+                kneeRight.Position.Z - hipRight.Position.Z);
+
+            Double cosTheta = Vector3.Dot(Vector3.Normalize(u), Vector3.Normalize(v));
+
+            Double ThetaInDegrees = Math.Acos(cosTheta) * 180 / Math.PI;
 
             return ThetaInDegrees;
         }

@@ -5,7 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Windows;
 
-namespace KinectUserHeight
+namespace KinectUserDort
 {
     /// <summary>
     /// Interaction logic for App.xaml

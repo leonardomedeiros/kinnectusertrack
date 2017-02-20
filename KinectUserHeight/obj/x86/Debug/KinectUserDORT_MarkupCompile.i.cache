@@ -1,18 +1,18 @@
-﻿KinectUserHeight
+﻿KinectUserDORT
 
 
 winexe
 C#
 .cs
-C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\
-KinectUserHeight
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Debug\
+KinectUserDORT
 none
 false
-TRACE
+DEBUG;TRACE
 C:\git\kinnectusertrack\KinectUserHeight\App.xaml
 11151548125
 
-101430570406
+1140048638
 17-107134759
 MainWindow.xaml;
 

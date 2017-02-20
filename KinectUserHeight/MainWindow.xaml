@@ -1,4 +1,4 @@
-﻿<Window x:Class="KinectUserHeight.MainWindow"
+﻿<Window x:Class="KinectUserDort.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Kinect user height" Height="519" Width="1181.403" Loaded="Window_Loaded">
@@ -8,8 +8,8 @@
         <TextBlock x:Name="tblHeight" FontSize="50" Margin="5" ><Run Text="He"/><Run Text="ight: "/><Run Text="N/A"/></TextBlock>
         <TextBlock Name="tblLeft" Text="Left: N/A" FontSize="50" Margin="10,61,0,-51" />
         <TextBlock Name="tblRight" Text="Right: N/A" FontSize="50" Margin="10,117,0,-107" />
-        <TextBlock x:Name="tblAngleRight" FontSize="50" Margin="10,167,0,-107" ><Run Text="Relative Angle Left: N/A"/></TextBlock>
-        <TextBlock x:Name="tblAngleNeck" FontSize="50" Margin="10,207,0,-107" ><Run Text="Relative Angle Neck: N/A"/></TextBlock>
+        <TextBlock x:Name="tblAngleRight" FontSize="50" Margin="10,167,0,-107" ><Run Text="Hip Angle Right: N/A"/></TextBlock>
+        <TextBlock x:Name="tblShoulderFlexion" FontSize="50" Margin="10,207,0,-107" ><Run Text="Relative Angle Neck: N/A"/></TextBlock>
         <TextBlock Name="tblPositionHeaderX" Text="Position Header X: N/A" FontSize="20" Margin="800,21,0,-107" />
         <TextBlock Name="tblPositionHeaderY" Text="Position Header Y: N/A" FontSize="20" Margin="800,41,0,-107" />
         <TextBlock Name="tblPositionHeaderZ" Text="Position Header Z: N/A" FontSize="20" Margin="800,61,0,-107" />

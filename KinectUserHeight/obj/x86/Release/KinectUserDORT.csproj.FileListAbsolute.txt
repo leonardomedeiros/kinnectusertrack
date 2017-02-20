@@ -1,0 +1,17 @@
+C:\git\kinnectusertrack\KinectUserHeight\bin\Release\KinectUserDORT.exe.config
+C:\git\kinnectusertrack\KinectUserHeight\bin\Release\KinectUserDORT.exe
+C:\git\kinnectusertrack\KinectUserHeight\bin\Release\KinectUserDORT.pdb
+C:\git\kinnectusertrack\KinectUserHeight\bin\Release\Microsoft.Kinect.dll
+C:\git\kinnectusertrack\KinectUserHeight\bin\Release\XnaGeometry.dll
+C:\git\kinnectusertrack\KinectUserHeight\bin\Release\Microsoft.Kinect.xml
+C:\git\kinnectusertrack\KinectUserHeight\bin\Release\XnaGeometry.pdb
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\KinectUserDORT.csprojResolveAssemblyReference.cache
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\MainWindow.baml
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\MainWindow.g.cs
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\App.g.cs
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\KinectUserDORT_MarkupCompile.cache
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\KinectUserDORT.g.resources
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\KinectUserDORT.Properties.Resources.resources
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\KinectUserDORT.csproj.GenerateResource.Cache
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\KinectUserDORT.exe
+C:\git\kinnectusertrack\KinectUserHeight\obj\x86\Release\KinectUserDORT.pdb

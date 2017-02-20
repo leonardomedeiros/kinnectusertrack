@@ -13,7 +13,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Kinect;
 
-namespace KinectUserHeight
+namespace KinectUserDort
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -60,8 +60,8 @@ namespace KinectUserHeight
                         double height = Math.Round(skeleton.Height(), 2);
                         double left = Math.Round(skeleton.LeftHand(), 2);
                         double right = Math.Round(skeleton.RightHand(), 2);
-                        double rightArmRelativeAngle = Math.Round(skeleton.RightArmRelativeAngle(), 2);
-                        double neckRelativeAngle = Math.Round(skeleton.NeckRelativeAngle(), 2);
+                        double rightHipAngle = Math.Round(skeleton.HipRelativeAngle(), 2);
+                        double shoulderFlexion = Math.Round(skeleton.ShoulderFlexion(), 2);
 
                         // Draw skeleton joints.
                         foreach (JointType joint in Enum.GetValues(typeof(JointType)))
@@ -76,8 +76,8 @@ namespace KinectUserHeight
                         tblLeft.Text = "Left: " + left.ToString() + "m";
                         tblRight.Text = "Right: " + right.ToString() + "m";
                         //tblAngleLeft.Text = "Relative Angle Left: " + leftArmRelativeAngle.ToString() + "º";
-                        tblAngleRight.Text = "Relative Angle Right: " + rightArmRelativeAngle.ToString() + "º";
-                        tblAngleNeck.Text = "Relative Angle Neck: " + neckRelativeAngle.ToString() + "º";
+                        tblAngleRight.Text = "Angle Hip Right: " + rightHipAngle.ToString() + "º";
+                        tblShoulderFlexion.Text = "Shoulder Flexion: " + shoulderFlexion.ToString() + "º";
 
                         //Display SkeletonPositions
                         //Display LeftArmPositions
