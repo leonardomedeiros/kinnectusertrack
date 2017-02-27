@@ -140,6 +140,34 @@ namespace KinectUserDort
             return ThetaInDegrees;            
         }
 
+        public static double neckFlexion(this Skeleton skeleton)
+        {
+            var head = skeleton.Joints[JointType.Head];
+            var shoulderCenter = skeleton.Joints[JointType.ShoulderCenter];
+            var spine = skeleton.Joints[JointType.Spine];
+            
+            return scalarProduct(head, shoulderCenter, spine);
+        }
+
+        public static double neckExtension(this Skeleton skeleton)
+        {
+            return neckFlexion(skeleton) -180;
+        }
+
+        public static double scalarProduct(Joint x, Joint y, Joint z)
+        {
+            Vector3 u = new Vector3(x.Position.X - y.Position.X, x.Position.Y - y.Position.Y,
+                x.Position.Z - y.Position.Z);
+            Vector3 v = new Vector3(z.Position.X - y.Position.X, z.Position.Y - y.Position.Y,
+                z.Position.Z - y.Position.Z);
+
+            Double cosTheta = Vector3.Dot(Vector3.Normalize(u), Vector3.Normalize(v));
+
+            Double ThetaInDegrees = Math.Acos(cosTheta) * 180 / Math.PI;
+
+            return ThetaInDegrees;
+        }
+
         public static double ShoulderFlexion(this Skeleton skeleton)
         {
             var rightElbow = skeleton.Joints[JointType.ElbowRight];

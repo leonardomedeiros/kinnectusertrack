@@ -28,7 +28,7 @@ namespace KinectUserDORT
         public void Start()
         {
             IsRecording = true;
-            Folder = DateTime.Now.ToString("Kinect-yyy_MM_dd_HH_mm_ss");
+            Folder = DateTime.Now.ToString("Kinect-'yyy_MM_dd_HH_mm_ss");
 
             Directory.CreateDirectory(Folder);
         }

@@ -62,6 +62,8 @@ namespace KinectUserDort
                         double right = Math.Round(skeleton.RightHand(), 2);
                         double rightHipAngle = Math.Round(skeleton.HipRelativeAngle(), 2);
                         double shoulderFlexion = Math.Round(skeleton.ShoulderFlexion(), 2);
+                        double neckFlexion = Math.Round(skeleton.neckFlexion(), 2);
+                        double neckExtension = Math.Round(skeleton.neckExtension(), 2);
 
                         // Draw skeleton joints.
                         foreach (JointType joint in Enum.GetValues(typeof(JointType)))
@@ -78,6 +80,8 @@ namespace KinectUserDort
                         //tblAngleLeft.Text = "Relative Angle Left: " + leftArmRelativeAngle.ToString() + "º";
                         tblAngleRight.Text = "Angle Hip Right: " + rightHipAngle.ToString() + "º";
                         tblShoulderFlexion.Text = "Shoulder Flexion: " + shoulderFlexion.ToString() + "º";
+                        tblNeckFlexion.Text = "Neck Flexion: " + neckFlexion.ToString() + "º";
+                        tblNeckExtension.Text = "Neck Extension: " + neckExtension.ToString() + "º";
 
                         //Display SkeletonPositions
                         //Display LeftArmPositions
